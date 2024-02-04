@@ -1,0 +1,9 @@
+Books
+
+https://kailash392.files.wordpress.com/2019/02/fundamentalsof-computer-algorithms-by-ellis-horowitz.pdf
+
+https://github.com/aforarup/interview/blob/master/Data%20Structures%20and%20Algorithm/Algorithm%20Books/Algorithms%20and%20Data%20Structures%20-%20Thin%20Book-%20Niklaus%20Wirth.pdf
+
+https://github.com/aforarup/interview/tree/master/Data%20Structures%20and%20Algorithm/Algorithm%20Books
+
+
